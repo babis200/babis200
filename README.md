@@ -8,9 +8,9 @@
 - 🌱 I am intrested in all thigns .NET
 ---
 
-<br> 
 
 ## 🛠 Languages and Tools:
+
 <img align="left" alt=".NET" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;"/> 
 <img align="left" alt="csharp" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;"> 
 <img align="left" alt="MySQL" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/> 
