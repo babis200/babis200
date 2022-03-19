@@ -5,10 +5,32 @@
 
 - 📚 I am currently in my fourth year studying [Informatics and Computer Engineering](http://www.ice.uniwa.gr/en/home/) at the University of West Attica 
 - 🏢 I work as a Junior Software Developer at [e-Multisoft](https://e-multisoft.com.gr/)
-- 
-![](https://vistr.dev/badge?repo=babis200.babis200Project%20visitors)
-
+- 🌱 I am intrested in all thigns .NET
 ---
-<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babis200&count_private=true&theme=dracula&show_icons=true)
 
+<br> 
+
+## 🛠 Languages and Tools:
+<img align="left" alt=".NET" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" style="padding-right:10px;"/> 
+<img align="left" alt="csharp" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" style="padding-right:10px;"> 
+<img align="left" alt="MySQL" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain-wordmark.svg" style="padding-right:10px;"/> 
+<img align="left" alt="Mongo" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" style="padding-right:10px;"/> 
+<img align="left" alt="VisualStudio" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10px;"/> 
+<img align="left" alt="Git" width="56px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;"/> 
+<img align="left" alt="Postman" width="56px" src="https://www.svgrepo.com/show/354202/postman-icon.svg" style="padding-right:10px;"/> 
+<br><br><br>
+
+--- 
+
+## 📊 My Stats:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=babis200&count_private=true&theme=dracula&show_icons=true)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=babis200&theme=dracula&layout=compact)](https://github.com/babis200/github-readme-stats)
+
+<!-- <a href="https://github.com/babis200/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=babis200&count_private=true&theme=dracula&show_icons=true" />
+</a>
+<a href="https://github.com/babis200/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babis200&theme=dracula&" />
+</a> -->
