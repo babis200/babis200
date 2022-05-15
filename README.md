@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-Babis%20Baltatzidis-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/babis200/)](https://www.linkedin.com/in/babis200/)
 
 - 📚 I am currently in my fourth year studying [Informatics and Computer Engineering](http://www.ice.uniwa.gr/en/home/) at the University of West Attica 
-- 🏢 I work as a Junior Software Developer at [e-Multisoft](https://e-multisoft.com.gr/)
+- 🏢 I work as a Software Engineer at [VivaWallet](https://www.vivawallet.com/)
 - 🌱 I am intrested in all thigns .NET
 ---
 
