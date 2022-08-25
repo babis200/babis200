@@ -5,7 +5,7 @@
 
 - 📚 I am currently in my fourth year studying [Informatics and Computer Engineering](http://www.ice.uniwa.gr/en/home/) at the University of West Attica 
 - 🏢 I work as a Software Engineer at [VivaWallet](https://www.vivawallet.com/)
-- 🌱 I am intrested in all thigns .NET
+- 🌱 I am interested in all things .NET
 ---
 
 
